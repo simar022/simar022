@@ -1,4 +1,4 @@
-# 🚀 Simarjit Singh | Senior DevOps Advisor & Cloud Architect
+# 🚀 Simarjit Singh | Junior DevOps Advisor & Cloud Architect
 
 Passionate **DevOps Engineer** and **Cloud Infrastructure Specialist** with a focus on automating complex deployments and building scalable, containerized solutions. I bridge the gap between development and operations by implementing robust CI/CD pipelines, Infrastructure as Code (IaC), and cloud-native architectures.
 
