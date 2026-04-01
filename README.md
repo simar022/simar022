@@ -1,4 +1,4 @@
-# 🚀 Simarjit Singh | Junior DevOps Advisor & Cloud Architect
+# 🚀 Simarjit Singh | Associate DevOps Engineer & Cloud Architect
 
 Passionate **DevOps Engineer** and **Cloud Infrastructure Specialist** with a focus on automating complex deployments and building scalable, containerized solutions. I bridge the gap between development and operations by implementing robust CI/CD pipelines, Infrastructure as Code (IaC), and cloud-native architectures.
 
@@ -52,15 +52,6 @@ A modern full-stack application demonstrating a scalable architecture.
 ### [**K8-Flask-CI-CD**](https://www.google.com/search?q=https://github.com/simar022/K8-Flask-CI-CD)
 
 A DevOps-centric dashboard that monitors real-time system metrics (CPU/RAM) across Kubernetes pods. Includes automated health checks and HPA stress testing.
-
------
-
-## 📈 GitHub Stats
-
-* 🔭 I’m currently working on **HealthSync**
-* 🌱 I’m currently learning **Advanced Azure Networking & AZ-104**
-* 💬 Ask me about **Terraform, Kubernetes, or Flask**
-* ⚡ Fun fact: I prefer the **Ubuntu CLI** over any GUI.
 
 -----
 
