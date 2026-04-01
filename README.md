@@ -53,10 +53,6 @@ A modern full-stack application demonstrating a scalable architecture.
 
 A DevOps-centric dashboard that monitors real-time system metrics (CPU/RAM) across Kubernetes pods. Includes automated health checks and HPA stress testing.
 
-### [**Azure-WebApp-CI-CD**](https://www.google.com/search?q=https://github.com/simar022/Azure-WebApp-CI-CD)
-
-A containerized Flask & MongoDB application optimized for **Azure Web Apps**, featuring a complete GitHub Actions pipeline for automated builds and deployments.
-
 -----
 
 ## 📈 GitHub Stats
