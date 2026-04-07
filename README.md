@@ -49,7 +49,7 @@ A modern full-stack application demonstrating a scalable architecture.
 * **Database:** MongoDB
 * **DevOps:** Fully containerized with Docker Compose.
 
-### [**K8-Flask-CI-CD**](https://www.google.com/search?q=https://github.com/simar022/K8-Flask-CI-CD)
+### [**K8-Flask-CI-CD**](https://github.com/simar022/K8-Flask-CI-CD)
 
 A DevOps-centric dashboard that monitors real-time system metrics (CPU/RAM) across Kubernetes pods. Includes automated health checks and HPA stress testing.
 
