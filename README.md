@@ -40,7 +40,7 @@ Passionate **DevOps Engineer** and **Cloud Infrastructure Specialist** with a fo
 
 A professional healthcare dashboard utilizing **Azure Kubernetes Service (AKS)** and **Terraform**. It features a robust PostgreSQL backend to manage patient data with high availability and security.
 
-### [**3-Tier Inventory Management**](https://www.google.com/search?q=https://github.com/simar022/3-tier-app)
+### [**3-Tier Inventory Management**](https://github.com/simar022/3-tier-app)
 
 A modern full-stack application demonstrating a scalable architecture.
 
