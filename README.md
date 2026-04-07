@@ -36,7 +36,7 @@ Passionate **DevOps Engineer** and **Cloud Infrastructure Specialist** with a fo
 
 ## 🏆 Top Projects
 
-### [**HealthSync**](https://www.google.com/search?q=https://github.com/simar022/HealthSync)
+### [**HealthSync**](https://www.google.com/search?q=https://github.com/simar022/Azure-Terraform-Healthcare-Pipeline)
 
 A professional healthcare dashboard utilizing **Azure Kubernetes Service (AKS)** and **Terraform**. It features a robust PostgreSQL backend to manage patient data with high availability and security.
 
