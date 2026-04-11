@@ -1,12 +1,35 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=100&multiline=true&width=600&height=100&lines=🚀+Simarjit+Singh;Cloud+Architect+%7C+DevOps+Engineer+%7C+AI%2FML+Engineer" alt="Typing Animation" />
-</h1>
+# 🚀 Simarjit Singh
 
-![Profile Views](https://img.shields.io/badge/expertise-Cloud%20%7C%20DevOps%20%7C%20AI%2FML%20%7C%20IoT-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/available-for%20opportunities-brightgreen?style=for-the-badge)
-![Experience](https://img.shields.io/badge/focus-Intelligent%20Cloud%20Systems-informational?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Cloud+Architect+%7C+DevOps+Engineer;Building+Intelligent+Infrastructure" alt="Professional Typing Animation" />
+
+---
+
+## 📊 Expertise Spectrum
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <h3>☁️ Cloud & DevOps</h3>
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=600&color=0EA5E9&center=true&width=350&height=50&lines=Azure+Architecture;CI%2FCD+Automation;Infrastructure+as+Code" alt="Cloud Skills" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🤖 AI/ML & IoT</h3>
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=600&color=A78BFA&center=true&width=350&height=50&lines=ML+Operations;IoT+Solutions;Intelligent+Systems" alt="AI/ML Skills" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### Status & Focus
+
+![Available](https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square&logo=rocket)
+![Current Focus](https://img.shields.io/badge/Focus-Intelligent%20Cloud%20Systems-0EA5E9?style=flat-square&logo=cloud)
+![Expertise](https://img.shields.io/badge/Expertise-End--to--End%20Solutions-A78BFA?style=flat-square&logo=bolt)
 
 <strong>🌟 Building intelligent, scalable, and secure cloud infrastructure with AI/ML capabilities and IoT integrations</strong>
 
@@ -67,12 +90,11 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 <tr>
 <td width="50%">
 
-### 📡 **IoT & Edge Computing**
+### 📡 **Web Development**
 
-- **IoT Platforms:** Azure IoT Hub • IoT Central
-- **Edge Computing:** Azure IoT Edge • Embedded Systems
-- **Protocols:** MQTT • CoAP • HTTP/REST
-- **Real-time Processing:** Stream Analytics • Event Hubs
+- **Backend:** Python (Flask/FastAPI) • Node.js (Express) • ASP.NET Core
+- **Frontend:** HTML5 • CSS3 • JavaScript • React
+- **Databases:** PostgreSQL • MongoDB • MySQL
 
 </td>
 <td width="50%">
@@ -82,35 +104,10 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 - **Automation:** GitHub Actions • Azure Pipelines • Terraform Automation
 - **Monitoring:** Azure Monitor • Application Insights • Prometheus
 - **Web Servers:** Nginx • IIS • Load Balancing
-- **OS & Tools:** Linux • Windows • Bash
 
 </td>
 </tr>
 </table>
-
-### **Backend & Frontend Development**
-
-- **Backend:** Python (Flask/FastAPI) • Node.js (Express) • ASP.NET Core
-- **Frontend:** HTML5 • CSS3 • JavaScript • React
-- **Databases:** PostgreSQL • MongoDB • MySQL
-
----
-
-## 🏅 Key Achievements & Statistics
-
-<div align="center">
-
-| 🎯 Achievement | 📊 Impact |
-|:---|:---|
-| **4+** Production-Grade Cloud Applications | End-to-end deployment & management |
-| **100+** Automated CI/CD Deployments | Zero-downtime deployments |
-| **HIPAA-Compliant** Healthcare Systems | Secure medical data management |
-| **Kubernetes Orchestration** | Enterprise-scale container management |
-| **AI/ML Integration** | Intelligent system deployment |
-| **IoT Data Pipelines** | Real-time sensor data processing |
-| **AZ-900** Certified | Azure Fundamentals Certified |
-
-</div>
 
 ---
 
@@ -118,20 +115,26 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing!
+### 💼 Professional Links
 
 <a href="https://github.com/Simar0024">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/simarjit-singh-990130288">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:simarjitsingh2204@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
 
-**Next Focus:** Building intelligent cloud solutions that combine AI/ML with robust DevOps practices! 🚀
+### 🌟 Let's build intelligent cloud solutions that transform businesses!
+
+<img src="https://raw.githubusercontent.com/Simar0024/Simar0024/output/github-contribution-grid-snake.svg" alt="Contribution Animation" width="100%" />
+
+**Interested in Cloud Architecture, DevOps Excellence, AI/ML Innovation & IoT Solutions?** Let's connect!
+
+</div>
