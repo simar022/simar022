@@ -73,36 +73,3 @@ I'm a **Cloud Infrastructure Specialist** and **DevOps Engineer** with a passion
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
 
 </div>
-
-### **Open For Opportunities:**
-- Cloud Architecture & DevOps consulting
-- Mentoring & knowledge sharing
-- Full-time / Contract roles in cloud engineering
-- Collaborative open-source projects
-- Technical speaking & community contributions
-
----
-
-## Quick Navigation
-
-<div align="center">
-
-| Resource | Link |
-|----------|------|
-| **GitHub Portfolio** | [github.com/simar022](https://github.com/simar022) |
-| **Focus Areas** | Cloud Excellence • DevOps Automation • Kubernetes |
-| **Primary Goals** | Enterprise-Grade Solutions • Team Leadership • Continuous Innovation |
-
-</div>
-
----
-
-## GitHub Activity & Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simar022&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simar022&layout=compact&theme=dark)
-
-</div>
