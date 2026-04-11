@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Expertise Spectrum
+## 📊 Skillset
 
 <div align="center">
   <table border="0">
@@ -25,17 +25,22 @@
 
 ---
 
-### Status & Focus
+## 🎯 Status & Focus
 
-![Available](https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=flat-square&logo=rocket)
-![Current Focus](https://img.shields.io/badge/Focus-Intelligent%20Cloud%20Systems-0EA5E9?style=flat-square&logo=cloud)
-![Expertise](https://img.shields.io/badge/Expertise-End--to--End%20Solutions-A78BFA?style=flat-square&logo=bolt)
+<div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
 
-<strong>🌟 Building intelligent, scalable, and secure cloud infrastructure with AI/ML capabilities and IoT integrations</strong>
+![Status](https://img.shields.io/badge/🟢%20Status-Available%20for%20Opportunities-00D084?style=for-the-badge&logoWidth=0)
+![Focus](https://img.shields.io/badge/🎯%20Current%20Focus-Intelligent%20Cloud%20Systems-00D9FF?style=for-the-badge&logoWidth=0)
+![Expertise](https://img.shields.io/badge/⚡%20Expertise-End--to--End%20Solutions-A78BFA?style=for-the-badge&logoWidth=0)
+
+</div>
+
+<h3 style="font-weight: 900; font-size: 18px; line-height: 1.6;">
+🌟 Building intelligent, scalable, and secure cloud infrastructure<br/>
+with AI/ML capabilities and IoT integrations
+</h3>
 
 ### **Transforming Infrastructure | Automating Deployments | Scaling Systems | Enabling Intelligence**
-
-<img src="https://img.shields.io/badge/⚡%20Passionate%20About-Cloud%20Computing%2C%20AI%2FML%2C%20IoT%2C%20%26%20DevOps-ff6b6b?style=flat" alt="Passionate About" />
 
 </div>
 
@@ -49,14 +54,15 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 
 ### 🏆 Core Strengths
 
- **🔧 Infrastructure Automation** — Converting manual processes into intelligent, reliable CI/CD pipelines
- **☁️ Cloud-Native Architecture** — Designing scalable solutions on Microsoft Azure with Kubernetes & IaC
- **🤖 AI/ML Integration** — Building intelligent systems with machine learning model deployment and optimization
- **📡 IoT Solutions** — Architecting edge computing and IoT data pipeline management
- **🔒 Enterprise Security** — Building HIPAA-compliant, production-grade systems with high availability
- **🚀 DevOps Excellence** — End-to-end pipeline orchestration with monitoring, observability, and intelligent automation
+- **🔧 Infrastructure Automation** — Converting manual processes into intelligent, reliable CI/CD pipelines
+- **☁️ Cloud-Native Architecture** — Designing scalable solutions on Microsoft Azure with Kubernetes & IaC
+- **🤖 AI/ML Integration** — Building intelligent systems with machine learning model deployment and optimization
+- **📡 IoT Solutions** — Architecting edge computing and IoT data pipeline management
+- **🔒 Enterprise Security** — Building HIPAA-compliant, production-grade systems with high availability
+- **🚀 DevOps Excellence** — End-to-end pipeline orchestration with monitoring, observability, and intelligent automation
 
 ### 📚 Current Learning Focus
+
 🔹 **Advanced AI/ML Ops** (MLOps) — Deploying ML models at scale on Azure ML  
 🔹 **Edge Computing** — IoT solutions with Azure IoT Hub & Stream Analytics  
 🔹 **Advanced Azure Networking** — AZ-104 Azure Administrator certification  
@@ -132,9 +138,3 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 ---
 
 ### 🌟 Let's build intelligent cloud solutions that transform businesses!
-
-<img src="https://raw.githubusercontent.com/Simar0024/Simar0024/output/github-contribution-grid-snake.svg" alt="Contribution Animation" width="100%" />
-
-**Interested in Cloud Architecture, DevOps Excellence, AI/ML Innovation & IoT Solutions?** Let's connect!
-
-</div>
