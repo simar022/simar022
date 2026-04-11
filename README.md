@@ -26,12 +26,12 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 
 ### 🏆 Core Strengths
 
-- **🔧 Infrastructure Automation** — Converting manual processes into intelligent, reliable CI/CD pipelines
-- **☁️ Cloud-Native Architecture** — Designing scalable solutions on Microsoft Azure with Kubernetes & IaC
-- **🤖 AI/ML Integration** — Building intelligent systems with machine learning model deployment and optimization
-- **📡 IoT Solutions** — Architecting edge computing and IoT data pipeline management
-- **🔒 Enterprise Security** — Building HIPAA-compliant, production-grade systems with high availability
-- **🚀 DevOps Excellence** — End-to-end pipeline orchestration with monitoring, observability, and intelligent automation
+ **🔧 Infrastructure Automation** — Converting manual processes into intelligent, reliable CI/CD pipelines
+ **☁️ Cloud-Native Architecture** — Designing scalable solutions on Microsoft Azure with Kubernetes & IaC
+ **🤖 AI/ML Integration** — Building intelligent systems with machine learning model deployment and optimization
+ **📡 IoT Solutions** — Architecting edge computing and IoT data pipeline management
+ **🔒 Enterprise Security** — Building HIPAA-compliant, production-grade systems with high availability
+ **🚀 DevOps Excellence** — End-to-end pipeline orchestration with monitoring, observability, and intelligent automation
 
 ### 📚 Current Learning Focus
 🔹 **Advanced AI/ML Ops** (MLOps) — Deploying ML models at scale on Azure ML  
@@ -41,26 +41,26 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 
 ---
 
-## 💻 Technical Expertise
+## 💻 Technical Strenghths
 
 <table>
 <tr>
 <td width="50%">
 
 ### ☁️ **Cloud & Infrastructure**
-- **Microsoft Azure:** AKS • App Service • Azure ML • Azure IoT Hub • Virtual Machines
+
+- **Microsoft Azure:** AKS • App Service • Azure ML
 - **Containerization:** Docker • Kubernetes • Minikube • Container Registry
-- **Infrastructure as Code:** Terraform • ARM Templates • Modular Architecture
-- **Architecture:** Microservices • Serverless • Event-Driven
+- **Infrastructure as Code:** Terraform • ARM Templates
 
 </td>
 <td width="50%">
 
 ### 🤖 **AI/ML & Data**
-- **ML Frameworks:** TensorFlow • PyTorch • Scikit-learn
+
+- **ML Frameworks:** Matplotlib • OpenCV • Seaborn
 - **MLOps:** Azure ML • Model Deployment • ML Pipelines
 - **Data Processing:** Pandas • NumPy • Data Pipelines
-- **Analytics:** Azure Analytics • Stream Processing
 
 </td>
 </tr>
@@ -68,6 +68,7 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 <td width="50%">
 
 ### 📡 **IoT & Edge Computing**
+
 - **IoT Platforms:** Azure IoT Hub • IoT Central
 - **Edge Computing:** Azure IoT Edge • Embedded Systems
 - **Protocols:** MQTT • CoAP • HTTP/REST
@@ -77,19 +78,21 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 <td width="50%">
 
 ### 🚀 **DevOps & CI/CD**
+
 - **Automation:** GitHub Actions • Azure Pipelines • Terraform Automation
 - **Monitoring:** Azure Monitor • Application Insights • Prometheus
 - **Web Servers:** Nginx • IIS • Load Balancing
-- **OS & Tools:** Linux • Windows • Bash • PowerShell
+- **OS & Tools:** Linux • Windows • Bash
 
 </td>
 </tr>
 </table>
 
 ### **Backend & Frontend Development**
-- **Backend:** Python (Flask/FastAPI) • Node.js (Express) • ASP.NET Core • RESTful APIs
-- **Frontend:** React • Vite • Material-UI • HTML5 • CSS3 • JavaScript
-- **Databases:** PostgreSQL • MongoDB • Redis • MySQL • Cosmos DB
+
+- **Backend:** Python (Flask/FastAPI) • Node.js (Express) • ASP.NET Core
+- **Frontend:** HTML5 • CSS3 • JavaScript • React
+- **Databases:** PostgreSQL • MongoDB • MySQL
 
 ---
 
@@ -108,43 +111,6 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 | **AZ-900** Certified | Azure Fundamentals Certified |
 
 </div>
-
-### Featured Accomplishments
-
-- ✨ Architected multi-tier cloud-native applications serving 500K+ users
-- 🤖 Built intelligent IoT data processing pipelines with ML-based anomaly detection
-- 🔐 Implemented zero-trust security architecture with HIPAA compliance
-- 🚀 Reduced deployment time by 80% through CI/CD automation
-- 📊 Designed real-time analytics systems processing 1M+ events/day
-
----
-
-## 🎓 Learning & Growth
-
-- 📚 **Currently Pursuing:** Azure Administrator (AZ-104) Certification
-- 🤖 **Exploring:** MLOps, Advanced Machine Learning, IoT Edge Computing
-- 💪 **Passionate About:** Continuous Learning & Innovation
-- 🌍 **Community:** Open-source contributions & knowledge sharing
-
----
-
-## 🌐 Areas of Interest
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  ☁️ CLOUD COMPUTING         🤖 AI/ML              │
-│  • Scalable Architecture     • Model Deployment    │
-│  • Microservices             • Intelligent Systems │
-│  • Serverless Computing      • Data Science        │
-│                                                     │
-│  📡 IoT & Edge Computing     🔐 Security          │
-│  • Sensor Networks           • Zero-Trust Model    │
-│  • Real-time Processing      • Compliance          │
-│  • Edge Intelligence         • Infrastructure Sec  │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -169,7 +135,3 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 ---
 
 **Next Focus:** Building intelligent cloud solutions that combine AI/ML with robust DevOps practices! 🚀
-
-<img src="https://raw.githubusercontent.com/Simar0024/Simar0024/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-</div>
