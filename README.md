@@ -35,16 +35,19 @@ I'm a **Cloud Infrastructure Specialist** and **DevOps Engineer** with a passion
 ## Technical Expertise
 
 ### **Cloud & Container Orchestration**
+
 - **Microsoft Azure:** AKS • App Service • Virtual Machines • Application Gateway • Cosmos DB
 - **Containerization:** Docker • Kubernetes • Minikube • Container Registry
 - **Infrastructure as Code:** Terraform • ARM Templates • Modular Architecture
 
 ### **CI/CD & DevOps Pipeline**
+
 - **Automation:** GitHub Actions • Azure Pipelines • Continuous Deployment
 - **Web Servers:** Nginx • Windows IIS • Load Balancing • SSL/TLS
 - **OS & Tools:** Ubuntu Linux • Windows Server • Bash • PowerShell
 
 ### **Application Development**
+
 - **Backend:** Python (Flask) • Node.js (Express) • ASP.NET Core • RESTful APIs
 - **Frontend:** React • Vite • Material-UI • HTML5 • CSS3
 - **Databases:** PostgreSQL • MongoDB • Redis • MySQL
@@ -67,9 +70,8 @@ I'm a **Cloud Infrastructure Specialist** and **DevOps Engineer** with a passion
 
 ### Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/simar022)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Simar0024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/simarjit-singh-990130288)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simarjitsingh2204@gmail.com)
 
 </div>
