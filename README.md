@@ -35,11 +35,6 @@
 
 </div>
 
-<h3 style="font-weight: 900; font-size: 18px; line-height: 1.6;">
-🌟 Building intelligent, scalable, and secure cloud infrastructure<br/>
-with AI/ML capabilities and IoT integrations
-</h3>
-
 ### **Transforming Infrastructure | Automating Deployments | Scaling Systems | Enabling Intelligence**
 
 </div>
