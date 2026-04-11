@@ -49,12 +49,10 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 
 ### 🏆 Core Strengths
 
-- **🔧 Infrastructure Automation** — Converting manual processes into intelligent, reliable CI/CD pipelines
-- **☁️ Cloud-Native Architecture** — Designing scalable solutions on Microsoft Azure with Kubernetes & IaC
-- **🤖 AI/ML Integration** — Building intelligent systems with machine learning model deployment and optimization
-- **📡 IoT Solutions** — Architecting edge computing and IoT data pipeline management
-- **🔒 Enterprise Security** — Building HIPAA-compliant, production-grade systems with high availability
-- **🚀 DevOps Excellence** — End-to-end pipeline orchestration with monitoring, observability, and intelligent automation
+- **Infrastructure Automation** — Converting manual processes into intelligent, reliable CI/CD pipelines
+- **Cloud-Native Architecture** — Designing scalable solutions on Microsoft Azure with Kubernetes & IaC
+- **AI/ML Integration** — Building intelligent systems with machine learning model deployment and optimization
+- **DevOps Excellence** — End-to-end pipeline orchestration with monitoring, observability, and intelligent automation
 
 ### 📚 Current Learning Focus
 
