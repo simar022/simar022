@@ -63,7 +63,7 @@ Passionate **Cloud Architect** and **DevOps Engineer** with deep expertise in ar
 
 ---
 
-## 💻 Technical Strenghths
+## 💻 Technical Strengths
 
 <table>
 <tr>
